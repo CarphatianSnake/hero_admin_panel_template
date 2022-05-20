@@ -1,0 +1,55 @@
+{
+  "heroes": [
+    {
+      "name": "Lux",
+      "description": "Їбашить в кашу",
+      "element": "wind",
+      "id": "fbe2f607-2c75-4243-9e67-2f8fddcdc58e"
+    },
+    {
+      "id": "111c988c-8144-4a9a-b19b-77270aac2d22",
+      "name": "Nami",
+      "description": "Пуляє бульбами, пускає хвилю",
+      "element": "water"
+    },
+    {
+      "id": "f03c2385-eade-413a-b681-f595539691fe",
+      "name": "Brand",
+      "description": "Хєрачить вогнем як не в себе",
+      "element": "fire"
+    },
+    {
+      "id": "c4d49ed1-558c-49a8-a4c8-5c6fe0fcde08",
+      "name": "Thalia",
+      "description": "Ліветує на скейтборді, засипає камінням",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "Все",
+      "cls": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "Огонь",
+      "cls": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "Вода",
+      "cls": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "Ветер",
+      "cls": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "Земля",
+      "cls": "btn-secondary"
+    }
+  ]
+}
